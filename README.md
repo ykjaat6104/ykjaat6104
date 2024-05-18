@@ -1,4 +1,4 @@
- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)
 
 
 <h1 align="center">Hi 👋, I'm Yash Kumar Kalirawan</h1>
