@@ -19,21 +19,21 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="35" height="35" />Github Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ykjaat6104&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ykjaat6104&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="30" /> Github Stats
 
 <p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=aura&hide_border=true" alt="ykjaat6104"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=radical&hide_border=true" alt="ykjaat6104"/>
 </p>
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ykjaat6104&show_icons=true&locale=en&theme=aura&hide_border=true" alt="ykjaat6104" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ykjaat6104&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ykjaat6104" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykjaat6104&layout=compact&theme=aura&hide_border=true" alt="ykjaat6104" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykjaat6104&layout=compact&theme=radical&hide_border=true" alt="ykjaat6104" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" height="40" /> Connect With Me
