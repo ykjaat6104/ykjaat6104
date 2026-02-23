@@ -1,18 +1,25 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="50" height="50" />, I'm Yash Kumar Kalirawan</h1>
+
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="50" height="50" />, I'm Yash Kumar Kalirawan</h1>
-<h3 align="center">Full Stack Developer | Gen AI Developer | Agentic AI Builder</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ykjaat6104&label=Profile%20views&color=0e75b6&style=flat" alt="ykjaat6104" /> </p>
-
-
+  
+<div>
+<h2 align="left">✨ About Me</h2>
+<img align="left" width="200" src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png">
+<img align="right"src="https://komarev.com/ghpvc/?username=ykjaat6104&label=Profile%20views&color=0e75b6&style=flat" alt="ykjaat6104" />  
+  <br><br>
+  <p align="justify"> 🔭 Building <b>RAG pipelines</b> and <b>SaaS AI products</b></p>
+  <p align="justify"> 🌱 Exploring <b>Generative AI</b>, <b>LLMOps</b>, and <b>Data Science</b></p>
+  <p align="justify"> ⚡ Passionate about <b>open source</b>, <b>automation</b>, and <b>creative problem-solving</b></p>
+  </p>
+</div>
+<br clear="all">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,java,react,mongodb,cpp,python,bash,vim,github,mysql,postgres,postman,aws,gcp,fastapi,tailwind,js,typescript" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,aws,gcp,react,nodejs,mongodb,js,typescript,html,css,tailwind,c,cpp,postman,figma,vercel,netlify,supabase,mysql,postgres,redis,python,flask,fastapi,pytorch,sklearn&perline=10" />
   </a>
 </p>
 
@@ -24,17 +31,21 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="30" /> Github Stats
 
-<p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=radical&hide_border=true" alt="ykjaat6104"/>
-</p>
+<div align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=aura&hide_border=true" alt="Streak Stats"/>
+</div>
 
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ykjaat6104&show_icons=true&locale=en&theme=radical&hide_border=true" alt="ykjaat6104" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ykjaat6104&layout=compact&theme=radical&hide_border=true" alt="ykjaat6104" />
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ykjaat6104&theme=aura" alt="Summary Stats" height="190"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ykjaat6104&theme=aura" alt="Top Languages" height="190"/>
+</div>
+
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykjaat6104&theme=aura" alt="Profile Details" height="200"/>
+</div>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" height="40" /> Connect With Me
 
