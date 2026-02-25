@@ -57,4 +57,8 @@
   <a href="https://www.linkedin.com/in/yash-kumar-kalirawan-527259257/">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Kumar%20Kalirawan-blue?style=for-the-badge&logo=linkedin&color=white&labelColor=blue" alt="LinkedIn"/>
   </a>
+
+  <a href="https://discord.com/users/1031978979592261753">
+  <img src="https://img.shields.io/badge/Discord-Obito84r-white?style=for-the-badge&logo=discord&color=black" alt="Discord"/>
+</a>
 </p>
