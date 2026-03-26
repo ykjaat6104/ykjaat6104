@@ -11,7 +11,7 @@
 <h2 align="left">✨ About Me</h2>
 <img align="left" width="200" src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png">
 <img align="right"src="https://komarev.com/ghpvc/?username=ykjaat6104&label=Profile%20Views&style=flat&color=a78bfa&labelColor=0d1117" alt="ykjaat6104" />
-<img align="right" src="https://img.shields.io/github/stars/DakshC17?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>
+<img align="right" src="https://img.shields.io/github/stars/ykjaat6104?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>
   <br><br>
   <p align="justify"> 🔭 Building <b>RAG pipelines</b> and <b>SaaS AI products</b></p>
   <p align="justify"> 🌱 Exploring <b>Generative AI</b>, <b>LLMOps</b>, and <b>Data Science</b></p>
