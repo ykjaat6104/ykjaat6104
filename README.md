@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="50" height="50" />, I'm Yash Kumar Kalirawan</h1>
 
+<p align="center">
+    🤖 AI Engineer &nbsp;|&nbsp; 🧠 Generative AI Builder &nbsp;|&nbsp; 🔗 Agentic Workflows   &nbsp;|&nbsp; 🚀 Open Source Contributor
+</p>
+
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)
 
   
@@ -46,6 +50,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykjaat6104&theme=aura" alt="Profile Details" height="200"/>
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" height="40" /> Contribution Graph
+
+<div align="center">
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/ykjaat6104/ykjaat6104/output/github-contribution-grid-snake-dark.svg)
+</div>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" height="40" /> Connect With Me
 
@@ -62,3 +72,5 @@
   <img src="https://img.shields.io/badge/Discord-Obito84r-white?style=for-the-badge&logo=discord&color=black" alt="Discord"/>
 </a>
 </p>
+
+<p align="center">⭐ If you like my work, drop a ⭐ and let's connect!</p>
