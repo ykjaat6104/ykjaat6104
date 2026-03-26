@@ -10,7 +10,8 @@
 <div>
 <h2 align="left">✨ About Me</h2>
 <img align="left" width="200" src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png">
-<img align="right"src="https://komarev.com/ghpvc/?username=ykjaat6104&label=Profile%20views&color=0e75b6&style=flat" alt="ykjaat6104" />  
+<img align="right"src="https://komarev.com/ghpvc/?username=ykjaat6104&label=Profile%20Views&style=flat&color=a78bfa&labelColor=0d1117" alt="ykjaat6104" />
+<img align="right" src="https://img.shields.io/github/stars/DakshC17?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>
   <br><br>
   <p align="justify"> 🔭 Building <b>RAG pipelines</b> and <b>SaaS AI products</b></p>
   <p align="justify"> 🌱 Exploring <b>Generative AI</b>, <b>LLMOps</b>, and <b>Data Science</b></p>
@@ -45,10 +46,25 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ykjaat6104&theme=aura" alt="Top Languages" height="190"/>
 </div>
 
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykjaat6104&theme=aura" alt="Profile Details" height="200"/>
 </div>
+
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ykjaat6104&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a78bfa&text_color=c4b5fd" height="200"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ykjaat6104&langs_count=8&layout=compact&theme=aura&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a78bfa&text_color=c4b5fd" height="200"/>
+</div>
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="40" height="35" />Activity Graph
+
+<div align="center">
+    <a href="https://github.com/ykjaat6104">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykjaat6104&bg_color=0d1117&color=a855f7&line=a78bfa&point=c4b5fd&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    </a>
+  </div>
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" height="40" /> Connect With Me
 
