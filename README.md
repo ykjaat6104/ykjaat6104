@@ -1,12 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="50" height="50" />, I'm Yash Kumar Kalirawan</h1>
+<h1 align="center">
+    <strong>Hi</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="50" />
+    <strong>, I'm Yash Kumar Kalirawan</strong>
+</h1>
 
 <p align="center">
-    🧠 Generative AI Builder &nbsp;|&nbsp; 🤖 AI & LLMOps Engineer &nbsp;|&nbsp; 🔗 Saas AI Products &nbsp;|&nbsp; 🚀 Open Source Contributor
+    <strong>🧠 Generative AI Builder &nbsp;|&nbsp; 🤖 AI & LLMOps Engineer &nbsp;|&nbsp; 🔗 Saas AI Products &nbsp;|&nbsp; 🚀 Open Source Contributor</strong>
 </p>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)
 
-  
+
 <div>
 <h2 align="left">✨ About Me</h2>
 <img align="left" width="200" src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png">
@@ -20,7 +24,7 @@
 </div>
 <br clear="all">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35"/> Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,13 +32,13 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="35" height="35" />Github Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="35"/>Github Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ykjaat6104&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="30" /> Github Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35"/> Github Stats
 
 <div align=center>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=aura&hide_border=true" alt="Streak Stats"/>
@@ -56,7 +60,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="40" height="35" />Activity Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="40"/>Activity Graph
 
 <div align="center">
     <a href="https://github.com/ykjaat6104">
@@ -66,7 +70,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" height="40" /> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="50"/> Connect With Me
 
 <p align="center">
   <a href="mailto:kalirawan2004yash@gmail.com">
