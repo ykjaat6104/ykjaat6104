@@ -18,7 +18,7 @@
 <img align="right" src="https://img.shields.io/github/stars/ykjaat6104?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>
   <br><br>
   <p align="justify"> 🔭 Building <b>RAG pipelines</b> and <b>SaaS AI products</b></p>
-  <p align="justify"> 🌱 Exploring <b>Generative AI</b>, <b>LLMOps</b>, and <b>Data Science</b></p>
+  <p align="justify"> 🌱 Exploring <b>Generative AI</b>, <b>LLMOps</b>, <b>Machine Learning</b> and <b>Data Science</b></p>
   <p align="justify"> ⚡ Passionate about <b>open source</b>, <b>automation</b>, and <b>creative problem-solving</b></p>
   </p>
 </div>
