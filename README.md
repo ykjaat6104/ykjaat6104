@@ -41,7 +41,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35"/> Github Stats
 
 <div align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=python-dark&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=aura&hide_border=true" alt="Streak Stats"/>
 </div>
 
 
