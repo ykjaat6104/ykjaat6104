@@ -55,8 +55,8 @@
 </div>
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ykjaat6104&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a78bfa&text_color=c4b5fd" height="200"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ykjaat6104&langs_count=8&layout=compact&theme=aura&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a78bfa&text_color=c4b5fd" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ykjaat6104&show_icons=true&include_all_commits=true&theme=aura&layout=compact&hide_border=true&bg_color=0d1117" alt="most used languages" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ykjaat6104&layout=compact&langs_count=8&theme=aura&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="most used languages" alt="githubstats" height="200"/>
 </div>
 
 
