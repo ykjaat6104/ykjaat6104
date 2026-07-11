@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🧠 Generative AI Builder &nbsp;|&nbsp; 🤖 AI & LLMOps Engineer &nbsp;|&nbsp; 🔗 Saas AI Products &nbsp;|&nbsp; 🚀 Open Source Contributor</strong>
+    <strong>🧠 Generative AI Builder &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 🔗 Saas AI Products &nbsp;|&nbsp; 🚀 Open Source Contributor</strong>
 </p>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)
@@ -35,13 +35,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="35"/>Github Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ykjaat6104&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ykjaat6104&theme=python&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35"/> Github Stats
 
 <div align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=aura&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykjaat6104&theme=python-dark&hide_border=true" alt="Streak Stats"/>
 </div>
 
 
